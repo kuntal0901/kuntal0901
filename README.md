@@ -1,6 +1,4 @@
 ## 👋 About Me  
-Hello, I'm Kuntal Gorai<br><br>
-
 I'm a **Software Engineer at Netcore**, passionate about bringing product ideas to life by transforming designs into functional, user-centric applications.  
 
 I’ve contributed to several impactful initiatives, including the **revamp of a major product**, adapting it to a modern design system and upgrading the tech stack.

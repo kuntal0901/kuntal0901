@@ -1,5 +1,30 @@
-# 💫 About Me:
-👋 Hello, I'm Kuntal Gorai<br><br>🎓 A recent Computer Science graduate from PES University, passionate about coding, design, and all things tech.<br><br>💼 Currently, I'm honing my skills as a Frontend UI Developer at Unbxd, where I'm crafting user-friendly interfaces that blend form with function.<br><br>🧠 My interests extend beyond code; I've had the privilege of working on projects related to Artificial Intelligence (AI) and Machine Learning (ML), and I'm constantly exploring the endless possibilities of these fields.<br><br>📝 Additionally, I've contributed to the academic world by publishing a paper on the intriguing topic of building an automated shopping cart [Link to the Paper](https://doi.ieeecomputersociety.org/10.1109/ICSMDI57622.2023.00010).<br><br>🏓 When I'm not immersed in the digital realm, I love to engage in real-world activities. You can often find me enjoying a game of table tennis, gracefully gliding through the water while swimming, or competing in a game of badminton.<br><br>📚 Reading is my lifelong passion, and I'm always eager to dive into a good book. For a change of pace, I also enjoy watching documentaries that expand my horizons during my free time.<br><br>🚀 Let's connect and collaborate on exciting projects!
+## 👋 About Me  
+Hello, I'm Kuntal Gorai<br><br>
+
+I'm a **Software Engineer at Netcore**, passionate about bringing product ideas to life by transforming designs into functional, user-centric applications.  
+
+I’ve contributed to several impactful initiatives, including the **revamp of a major product**, adapting it to a modern design system and upgrading the tech stack.
+
+### 🚀 Projects & Contributions  
+- 🔧 Upgraded an old, stale project to meet modern standards — including **Node.js (v10 → v20)** and **React (v12 → v18)**  
+- 🌐 Implemented **multi-language support** for global accessibility  
+- 🎨 Revamped product pages with a **new, user-friendly design** aligned with current UI/UX standards  
+- 🤖 Introduced **AI-based features** to enhance product capabilities  
+- 📊 Built **highly customizable and feature-rich tables** using **ag-Grid**  
+- 🧩 Migrated **icons to font-based assets** for improved accessibility and easier customization  
+- 🐞 Resolved numerous **bugs and performance issues**, improving product stability and user experience  
+
+### 🎓 Education  
+I'm a **graduate of PES University**, where I explored the realms of **Artificial Intelligence (AI)** and **Machine Learning (ML)** through various academic projects.  
+
+📝 I also published a research paper on *Building an Automated Shopping Cart*, available here:  
+👉 [IEEE Paper Link](https://doi.ieeecomputersociety.org/10.1109/ICSMDI57622.2023.00010)  
+
+### 🎯 Beyond Code  
+Outside of tech, I enjoy playing **badminton**, **table tennis**, and **swimming**.  
+I’m also an avid **reader of thrillers** — I’d always choose a good book over social media any day!  
+
+---
 
 
 ## 🌐 Socials:

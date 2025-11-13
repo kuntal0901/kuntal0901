@@ -1,4 +1,4 @@
-## 👋 About Me  
+## 👋 About Me  [<img align="right" width="30" height="30" src="./icons8-linkedin-50.png" alt="LinkedIn"/>](https://linkedin.com/in/kuntal-gorai-a9123622a)
 I'm a **Software Engineer at Netcore**, passionate about bringing product ideas to life by transforming designs into functional, user-centric applications.  
 
 I’ve contributed to several impactful initiatives, including the **revamp of a major product**, adapting it to a modern design system and upgrading the tech stack.
@@ -22,11 +22,6 @@ I'm a **graduate of PES University**, where I explored the realms of **Artificia
 Outside of tech, I enjoy playing **badminton**, **table tennis**, and **swimming**.  
 I’m also an avid **reader of thrillers** — I’d always choose a good book over social media any day!  
 
----
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kuntal-gorai-a9123622a) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kuntal0901) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Kuntal-Gorai) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/kuntal-gorai) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Kuntal0901) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Sonu2002) 
 
 ## 👨‍💻 Coding Profiles:
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/kuntal0901/) [![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@kuntal0901) [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/kuntal0901) [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/kuntal0901)
